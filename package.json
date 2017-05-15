@@ -49,7 +49,7 @@
     "pelias-mock-logger": "^1.0.1",
     "pelias-model": "4.8.1",
     "precommit-hook": "^3.0.0",
-    "proxyquire": "^1.7.10",
+    "proxyquire": "^1.8.0",
     "semantic-release": "^6.3.2",
     "tap-dot": "^1.0.1",
     "tape": "^4.2.2",
