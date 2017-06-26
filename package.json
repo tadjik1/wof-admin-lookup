@@ -26,7 +26,7 @@
     "who's on first"
   ],
   "dependencies": {
-    "async": "^2.1.4",
+    "async": "^2.5.0",
     "joi": "^10.1.0",
     "lodash": "^4.6.0",
     "pelias-config": "2.11.0",
